@@ -1,2 +1,1 @@
-# darkmix_theme
-DarkMix Theme for Home Assistant
+## DarkMix Theme for Home Assistant
